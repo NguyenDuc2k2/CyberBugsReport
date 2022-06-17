@@ -1,0 +1,14 @@
+export const LOGIN_USER_SAGA = 'LOGIN_USER_SAGA';
+export const GET_USER_SAGA = 'GET_USER_SAGA';
+export const GET_BY_USER_PROJECTID_SAGA ='GET_BY_USER_PROJECTID_SAGA';
+export const ADD_USER_PROJECT_SAGA='ADD_USER_PROJECT_SAGA';
+
+/**================================Reducer=================== */
+
+
+export const USER_LOGIN_REDUCER = 'USER_LOGIN_REDUCER';
+export const USER_SIGNIN_LOGIN = 'USER_SIGNIN_LOGIN';
+export const GET_USER_SREACH = 'GET_USER_SREACH';
+export const REMOVE_USER_ASSIGNESS ='REMOVE_USER_ASSIGNESS';
+export const CHANGE_ASSIGNESS= 'CHANGE_ASSIGNESS';
+export const GET_USER_BY_PROJECTID='GET_USER_BY_PROJECTID';

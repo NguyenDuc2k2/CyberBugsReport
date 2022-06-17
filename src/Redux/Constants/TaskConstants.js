@@ -1,0 +1,12 @@
+export const OPEN_FORM_CREATE_TASK ='OPEN_FORM_CREATE_TASK';
+export const SET_SUBMIT_CREATE_TASK ='SET_SUBMIT_CREATE_TASK';
+export const GET_ALL_TASK_TYPE ='GET_ALL_TASK_TYPE';
+export const GET_TASK_DETAIL='GET_TASK_DETAIL';
+
+/**====================saga=================================== */
+export const GET_ALL_TASK_TYPE_SAGA = 'GET_ALL_TASK_TYPE_SAGA';
+export const CREATE_TASK_SAGA= 'CREATE_TASK_SAGA';
+export const CHANGE_TASK_MODAL='CHANGE_TASK_MODAL';
+export const GET_TASK_DETAIL_SAGA='GET_TASK_DETAIL_SAGA';
+export const UPDATE_STATUS_TASK_SAGA ='UPDATE_STATUS_TASK_SAGA';
+
